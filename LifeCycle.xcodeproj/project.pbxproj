@@ -28,6 +28,7 @@
 		0C52F05F2B86219E001B175B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0C52F0662B863164001B175B /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		0C52F0682B86316C001B175B /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		0C52F06A2B8648C2001B175B /* Info.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = Info.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 		0C52F0502B86219D001B175B /* LifeCycle */ = {
 			isa = PBXGroup;
 			children = (
+				0C52F06A2B8648C2001B175B /* Info.txt */,
 				0C52F0512B86219D001B175B /* AppDelegate.swift */,
 				0C52F0532B86219D001B175B /* SceneDelegate.swift */,
 				0C52F0652B86314A001B175B /* ViewControllers */,
